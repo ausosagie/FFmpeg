@@ -295,6 +295,7 @@ extern const FFFilter ff_vf_fillborders;
 extern const FFFilter ff_vf_find_rect;
 extern const FFFilter ff_vf_flip_vulkan;
 extern const FFFilter ff_vf_floodfill;
+extern const FFFilter ff_vf_foobar;
 extern const FFFilter ff_vf_format;
 extern const FFFilter ff_vf_fps;
 extern const FFFilter ff_vf_framepack;
